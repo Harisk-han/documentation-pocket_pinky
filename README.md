@@ -137,8 +137,8 @@ Pinky uses a three-tier progressive content system. All tiers are accessible to 
 | Tier | Name | Unlock Condition |
 |---|---|---|
 | **Tier 1** | Foundational | Default — all active users |
-| **Tier 2** | Intermediate | 3+ messages, return visit, Him Report request, or "why" question |
-| **Tier 3** | Advanced | 5+ sessions, long-term situation, advanced topic request, Swirling mode |
+| **Tier 2** | Intermediate | messages, return visit, Him Report request, or "why" question |
+| **Tier 3** | Advanced | sessions, long-term situation, advanced topic request, Swirling mode |
 
 Full milestone tracking logic is documented in [Pinky Tier & Milestone Tracking](./Pinky_Tier_Milestone_Tracking.md).
 
